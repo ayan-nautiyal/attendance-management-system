@@ -1,5 +1,4 @@
-# attendance-management-system
-# Attendance Shortage Tracker (C)
+# Attendance Management System
 
 A C program that records student attendance and flags students whose
 attendance falls below the required percentage.
