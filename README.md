@@ -22,8 +22,5 @@ gcc attendance.c -o attendance
 ./attendance        # on Windows: attendance.exe
 ```
 
-## Sample Output
-(paste a screenshot or a few lines of output here)
-
 ## Author
 Your Name, GIIT Noida
